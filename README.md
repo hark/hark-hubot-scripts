@@ -42,7 +42,7 @@ Trollface example in Github's blog announcement of hubot.
 References
 ----------
 
-http://www.hark.com/
-https://github.com/blog/968-say-hello-to-hubot
-https://github.com/github/hubot
-https://github.com/github/hubot-scripts
+* http://www.hark.com/
+* https://github.com/blog/968-say-hello-to-hubot
+* https://github.com/github/hubot
+* https://github.com/github/hubot-scripts
